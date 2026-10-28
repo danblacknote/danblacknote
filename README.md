@@ -1,40 +1,101 @@
-# 💫 About Me:
-Senior Data Manager, Analyst, Website Developer, CRM Automation Expert, and Social Media Manager at the Tropical and Infectious Diseases Research Center, Jimma University<br>I'm happy to collaborate on remote opportunities that involve my expertise. <br>Fun Fact: I like to challenge myself, learn, and teach what I know.
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h3 align="center">Senior Data Manager | Data Analyst | Data Engineer | BI Developer | Web Developer | CRM Automation and Lead Generation Expert | Social Media Manager </h3>
 
-# Publications & Research Contributions
+<p align="center">
+  <em>Based at the Tropical and Infectious Diseases Research Center (TIDRC), Jimma University. <br> I'm happy to collaborate on remote opportunities that involve my expertise.</em>
+</p>
 
-	Co-authored 
+<p align="center">
+  <b>⚡ Fun Fact:</b> I like to challenge myself, learn, and teach what I know.
+</p>
 
-•	“Active case detection using loop-mediated isothermal amplification technology and treatment versus standard of care for malaria in pregnancy in Ethiopia (LAMPREG): a pragmatic randomised diagnostic outcomes trial. The Lancet Primary Care. LAMPREG Study Group.”
-	Link: - www.thelancet.com/journals/lanprc/article/PIIS3050-5143(25)00008-1/fulltext
+<p align="center">
+  <a href="https://ju.edu.et/tidrc"><img src="https://img.shields.io/badge/Organization-TIDRC-blue?style=for-the-badge" alt="TIDRC"></a>
+  <a href="https://pamcaec.org"><img src="https://img.shields.io/badge/Website-PAMCA--EC-green?style=for-the-badge" alt="PAMCA-EC"></a>
+</p>
 
-•	“Anopheles larval ecology and physicochemical characterization of larval habitats in Dire Dawa: an area colonized by Anopheles stephensi in Eastern Ethiopia.”
-	Link: https://pubmed.ncbi.nlm.nih.gov/41646345/
+---
 
-•	“Deep learning convolutional neural networks for morphological identification of field-caught Anopheles stephensi in Ethiopia, using smartphone images of specimens.”
-   Link: https://link.springer.com/article/10.1186/s12936-026-06122-5
+### 🛠️ My Toolkit & Expertise
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analysis-Data_Science-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CRM_Automation-Salesforce%2FHubSpot-purple?style=for-the-badge" />
+</p>
 
-•	Contributor - E-agree for Ethiopian Farmer, an Android-based application selected as a top 10 final project among technology-related university initiatives during undergraduate study.
+---
 
-# Web Development Projects
-•	TIDRC Website - https://ju.edu.et/tidrc - Developed and maintained using WordPress.
-•	PAMCA-EC Website -https://pamcaec.org/ – Built using React and TypeScript.
+### 📚 Publications & Research Contributions
+*Click on each publication to reveal the link.*
 
-# Certifications & Training
+<details>
+  <summary><b>🧬 Active case detection using LAMP technology for malaria in pregnancy in Ethiopia (LAMPREG)</b></summary>
+  <br>
+  <p><i>The Lancet Primary Care. LAMPREG Study Group.</i></p>
+  <p>🔗 <a href="https://www.thelancet.com/journals/lanprc/article/PIIS3050-5143(25)00008-1/fulltext">Read the full paper here</a></p>
+</details>
 
-	Introduction to Statistics – Stanford University via Coursera (Nov 2024)
-	Data Analysis with Python – IBM SkillsBuild (Oct 2024)
-	Data Analytics for Beginners – Simplilearn (Oct 2024)
-	CCNA: Introduction to Networks – Cisco Networking Academy (Oct 2025)
-	Hands-On Python Data Science Bootcamp – Sayman Creative Institute (Apr 2025)
-	LAMPREG Trial Protocol Training – TIDRC (Apr 2021)
-	Clarius Ultrasound Training – TIDRC (Nov 2021)
-	Interpreting Malaria Genetics for Surveillance – Plasmodium Genetic Epidemiology Network
-	Qualitative Data Management and Analysis for M&E – USAID/IDEAL (Aug 2025)
-	Managing Projects in Humanitarian Settings – Save the Children (Oct 2025)
-	Research Communication – UNICEF/UNDP/World Bank/WHO TDR (Oct
-2025)
-	Discovering Entrepreneurship – Cisco Networking Academy (Dec 2025)
+<details>
+  <summary><b>🦟 Anopheles larval ecology and physicochemical characterization of larval habitats in Dire Dawa, Ethiopia</b></summary>
+  <br>
+  <p>🔗 <a href="https://pubmed.ncbi.nlm.nih.gov/41646345/">Read on PubMed</a></p>
+</details>
+
+<details>
+  <summary><b>🤖 Deep learning convolutional neural networks for morphological identification of field-caught Anopheles stephensi</b></summary>
+  <br>
+  <p><i>Using smartphone images of specimens.</i></p>
+  <p>🔗 <a href="https://link.springer.com/article/10.1186/s12936-026-06122-5">Read on Springer</a></p>
+</details>
+
+<details>
+  <summary><b>🌱 E-agree for Ethiopian Farmer (Android Application)</b></summary>
+  <br>
+  <p>Contributor - Selected as a top 10 final project among technology-related university initiatives during undergraduate study.</p>
+</details>
+
+---
+
+### 💻 Web Development Projects
+
+| Project | Tech Stack | Link |
+| :--- | :--- | :--- |
+| **TIDRC Website** | WordPress | [ju.edu.et/tidrc](https://ju.edu.et/tidrc) |
+| **PAMCA-EC Website** | React & TypeScript | [pamcaec.org](https://pamcaec.org) |
+
+---
+
+### 🎓 Certifications & Training
+
+<details>
+  <summary><b>Click to view my Certifications and Trainings</b></summary>
+  <br>
+  
+  **Data & Tech**
+  *   📊 Introduction to Statistics – Stanford University via Coursera (Nov 2024)
+  *   🐍 Data Analysis with Python – IBM SkillsBuild (Oct 2024)
+  *   📈 Data Analytics for Beginners – Simplilearn (Oct 2024)
+  *   🌐 CCNA: Introduction to Networks – Cisco Networking Academy (Oct 2025)
+  *   💻 Hands-On Python Data Science Bootcamp – Sayman Creative Institute (Apr 2025)
+  *   🚀 Discovering Entrepreneurship – Cisco Networking Academy (Dec 2025)
+
+  **Research & Public Health**
+  *   🦟 LAMPREG Trial Protocol Training – TIDRC (Apr 2021)
+  *   🩺 Clarius Ultrasound Training – TIDRC (Nov 2021)
+  *   🧬 Interpreting Malaria Genetics for Surveillance – Plasmodium Genetic Epidemiology Network
+  *   📋 Qualitative Data Management and Analysis for M&E – USAID/IDEAL (Aug 2025)
+  *   🏕️ Managing Projects in Humanitarian Settings – Save the Children (Oct 2025)
+  *   📢 Research Communication – UNICEF/UNDP/World Bank/WHO TDR (Oct 2025)
+</details>
+
+<br>
+
+<p align="center">
+  <i>Let's connect and build something impactful!</i>
+</p>
 
 
 
