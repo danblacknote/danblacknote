@@ -1,32 +1,13 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Mr. Deneke Zewdu 👋</h1>
 <h3 align="center">Senior Data Manager | Data Analyst | Data Engineer | BI Developer | Web Developer | CRM Automation and Lead Generation Expert | Social Media Manager </h3>
 
 <p align="center">
-  <em>Based at the Tropical and Infectious Diseases Research Center (TIDRC), Jimma University. <br> I'm happy to collaborate on remote opportunities that involve my expertise.</em>
+  <em>Based in Addis Ababa, Ethiopia, I work at the Tropical and Infectious Diseases Research Center (TIDRC) at Jimma University. <br> I'm happy to collaborate on remote opportunities that involve my expertise.</em>
 </p>
 
 <p align="center">
   <b>⚡ Fun Fact:</b> I like to challenge myself, learn, and teach what I know.
 </p>
-
-<p align="center">
-  <a href="https://ju.edu.et/tidrc"><img src="https://img.shields.io/badge/Organization-TIDRC-blue?style=for-the-badge" alt="TIDRC"></a>
-  <a href="https://pamcaec.org"><img src="https://img.shields.io/badge/Website-PAMCA--EC-green?style=for-the-badge" alt="PAMCA-EC"></a>
-</p>
-
----
-
-### 🛠️ My Toolkit & Expertise
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Analysis-Data_Science-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CRM_Automation-Salesforce%2FHubSpot-purple?style=for-the-badge" />
-</p>
-
----
 
 ### 📚 Publications & Research Contributions
 *Click on each publication to reveal the link.*
