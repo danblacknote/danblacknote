@@ -1,5 +1,41 @@
 # 💫 About Me:
-Senior Data Manager, Analyst, Website Developer, CRM Automation Export, and Social Media Manager at the Tropical and Infectious Diseases Research Center, Jimma University<br>I'm happy to collaborate on remote opportunites that involves my experties<br>Fun Fact I like to challenge my selfe, learn and tech people what I know.
+Senior Data Manager, Analyst, Website Developer, CRM Automation Expert, and Social Media Manager at the Tropical and Infectious Diseases Research Center, Jimma University<br>I'm happy to collaborate on remote opportunities that involve my expertise. <br>Fun Fact: I like to challenge myself, learn, and teach what I know.
+
+# Publications & Research Contributions
+
+	Co-authored 
+
+•	“Active case detection using loop-mediated isothermal amplification technology and treatment versus standard of care for malaria in pregnancy in Ethiopia (LAMPREG): a pragmatic randomised diagnostic outcomes trial. The Lancet Primary Care. LAMPREG Study Group.”
+	Link: - www.thelancet.com/journals/lanprc/article/PIIS3050-5143(25)00008-1/fulltext
+
+•	“Anopheles larval ecology and physicochemical characterization of larval habitats in Dire Dawa: an area colonized by Anopheles stephensi in Eastern Ethiopia.”
+	Link: https://pubmed.ncbi.nlm.nih.gov/41646345/
+
+•	“Deep learning convolutional neural networks for morphological identification of field-caught Anopheles stephensi in Ethiopia, using smartphone images of specimens.”
+   Link: https://link.springer.com/article/10.1186/s12936-026-06122-5
+
+•	Contributor - E-agree for Ethiopian Farmer, an Android-based application selected as a top 10 final project among technology-related university initiatives during undergraduate study.
+
+# Web Development Projects
+•	TIDRC Website - https://ju.edu.et/tidrc - Developed and maintained using WordPress.
+•	PAMCA-EC Website -https://pamcaec.org/ – Built using React and TypeScript.
+
+# Certifications & Training
+
+	Introduction to Statistics – Stanford University via Coursera (Nov 2024)
+	Data Analysis with Python – IBM SkillsBuild (Oct 2024)
+	Data Analytics for Beginners – Simplilearn (Oct 2024)
+	CCNA: Introduction to Networks – Cisco Networking Academy (Oct 2025)
+	Hands-On Python Data Science Bootcamp – Sayman Creative Institute (Apr 2025)
+	LAMPREG Trial Protocol Training – TIDRC (Apr 2021)
+	Clarius Ultrasound Training – TIDRC (Nov 2021)
+	Interpreting Malaria Genetics for Surveillance – Plasmodium Genetic Epidemiology Network
+	Qualitative Data Management and Analysis for M&E – USAID/IDEAL (Aug 2025)
+	Managing Projects in Humanitarian Settings – Save the Children (Oct 2025)
+	Research Communication – UNICEF/UNDP/World Bank/WHO TDR (Oct
+2025)
+	Discovering Entrepreneurship – Cisco Networking Academy (Dec 2025)
+
 
 
 ## 🌐 Socials:
