@@ -22,7 +22,7 @@
 <details>
   <summary><b>🦟 Anopheles larval ecology and physicochemical characterization of larval habitats in Dire Dawa, Ethiopia</b></summary>
   <br>
-  <p>🔗 <a href="https://pubmed.ncbi.nlm.nih.gov/41646345/">Read on PubMed</a></p>
+  <p>🔗 <a href="https://link.springer.com/article/10.1186/s12936-026-06082-w">Read on PubMed</a></p>
 </details>
 
 <details>
